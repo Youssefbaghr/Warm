@@ -2,13 +2,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.7%2B-blue.svg" alt="Python Version">
-  <img src="https://img.shields.io/github/license/yourusername/warm" alt="License">
-  <img src="https://img.shields.io/github/stars/yourusername/warm" alt="Stars">
-  <img src="https://img.shields.io/github/forks/yourusername/warm" alt="Forks">
-</p>
-
-<p align="center">
-  <img src="https://your-image-url-here.com/warm-logo.png" alt="Warm Logo" width="200">
+  <img src="https://img.shields.io/github/licenseYoussefbaghr/Warm" alt="License">
+  <img src="https://img.shields.io/github/starsYoussefbaghr/Warm" alt="Stars">
+  <img src="https://img.shields.io/github/forksYoussefbaghr/Warm" alt="Forks">
 </p>
 
 Warm is a robust, asynchronous API warming tool designed to keep your services active and responsive. Perfect for preventing cold starts on platforms like Render, Heroku, and more.
@@ -27,7 +23,7 @@ Warm is a robust, asynchronous API warming tool designed to keep your services a
 1. **Clone and install:**
 
     ```bash
-    git clone https://github.com/yourusername/warm.git
+    git clone https://github.comYoussefbaghr/Warm.git
     cd warm
     python -m venv venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -82,17 +78,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-Having issues or questions? [Open an issue](https://github.com/yourusername/warm/issues) on GitHub.
+Having issues or questions? [Open an issue](https://github.com/Youssefbaghr/Warm/issues) on GitHub.
 
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/Youssefbaghr">Your Name</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/warm/stargazers">Star this project</a> •
-  <a href="https://github.com/yourusername/warm/issues">Report an issue</a>
+  <a href="https://github.com/Youssefbaghr/Warm/stargazers">Star this project</a> •
+  <a href="https://github.com/Youssefbaghr/Warm/issues">Report an issue</a>
 </p>
 
 Stay warm! 🔥

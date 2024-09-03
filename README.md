@@ -2,9 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.7%2B-blue.svg" alt="Python Version">
-  <img src="https://img.shields.io/github/licenseYoussefbaghr/Warm" alt="License">
-  <img src="https://img.shields.io/github/starsYoussefbaghr/Warm" alt="Stars">
-  <img src="https://img.shields.io/github/forksYoussefbaghr/Warm" alt="Forks">
 </p>
 
 Warm is a robust, asynchronous API warming tool designed to keep your services active and responsive. Perfect for preventing cold starts on platforms like Render, Heroku, and more.
@@ -83,7 +80,7 @@ Having issues or questions? [Open an issue](https://github.com/Youssefbaghr/Warm
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/Youssefbaghr">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/Youssefbaghr">Youssef Baghrous</a>
 </p>
 
 <p align="center">

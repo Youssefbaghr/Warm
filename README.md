@@ -59,10 +59,35 @@ Warm is a robust, asynchronous API warming tool designed to keep your services a
 You can monitor Warm's activity in two ways:
 
 1. Console output: Warm will print log messages to the console as it runs.
-2. Log file: Check the log file (default: `warm.log`) for detailed information:
+2. Log file: Check the log file (default: `warm.log`) for detailed information.
+
+To view the log file in real-time:
+
+-   On Unix-like systems (Linux, macOS):
 
     ```bash
     tail -f warm.log
+    ```
+
+-   On Windows (PowerShell):
+
+    ```powershell
+    Get-Content -Path .\warm.log -Wait -Tail 10
+    ```
+
+-   Alternatively, you can use any text editor to open and refresh the `warm.log` file periodically.
+
+For more detailed analysis, you can use grep (Unix) or Select-String (Windows) to search for specific patterns in the log file:
+
+-   Unix:
+
+    ```bash
+    grep "ERROR" warm.log
+    ```
+
+-   Windows (PowerShell):
+    ```powershell
+    Select-String -Path .\warm.log -Pattern "ERROR"
     ```
 
 ## 🧪 Testing
